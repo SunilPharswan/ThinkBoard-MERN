@@ -1,0 +1,9 @@
+@baseUrl = http://localhost:5001
+
+###
+POST {{baseUrl}}/api/notes
+
+
+###
+GET {{baseUrl}}/api/notes
+
