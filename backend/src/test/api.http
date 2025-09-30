@@ -2,6 +2,12 @@
 
 ###
 POST {{baseUrl}}/api/notes
+Content-Type: application/json
+
+{
+    "title": "DEMO",
+    "content": "ABC"
+}
 
 
 ###
